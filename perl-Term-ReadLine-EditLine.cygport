@@ -1,0 +1,10 @@
+CPAN_AUTHOR=tokuhirom
+inherit perl
+
+NAME="perl-Term-ReadLine-EditLine"
+VERSION=1.1.1
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="BSD editline backend for Term::ReadLine"
+DESCRIPTION="Term::ReadLine::EditLine is an implementation of the interface to
+the BSD Editline Library (libedit), as a backend for Term::ReadLine."
